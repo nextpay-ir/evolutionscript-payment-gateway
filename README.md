@@ -1,7 +1,7 @@
 # evolutionscript-payment-gateway
 nextpay evolutionscript payment gateway
 
-## <div dir="rtl">
+<div dir="rtl">
 لطفا ابتدا فایل db.sql را در دیتابیسی که قبلا ساخته اید import نمایید سپس فایل ip2nationcountries.sql را import نمایید و در انتهای کار در فایل
 مربوط به تنظیمات دیتابیس includes\config.php موارد اتصال به دیتابیس خود را قرار دهید.
 باید در نظر داشته باشید که مسیر اسکریپت را در دیتابیس ، جدول settings فیلد site_url تغییر و تنظیم نمایید تا در روال پرداخت مشکلی بوجود نیاد.
