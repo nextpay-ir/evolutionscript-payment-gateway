@@ -1,0 +1,1 @@
+a:4:{s:5:"value";a:5:{s:2:"id";s:1:"1";s:4:"name";s:11:"Modern Blue";s:7:"version";s:3:"5.0";s:6:"folder";s:10:"ModernBlue";s:11:"default_tpl";s:1:"1";}s:10:"write_time";s:10:"1404744329";s:10:"expired_in";i:604800;s:12:"expired_time";i:1405349129;}

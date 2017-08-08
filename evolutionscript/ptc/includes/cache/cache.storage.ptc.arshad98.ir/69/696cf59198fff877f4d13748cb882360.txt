@@ -1,0 +1,123 @@
+a:4:{s:5:"value";a:6:{s:23:"registration_activation";a:7:{s:3:"oid";s:1:"1";s:2:"id";s:23:"registration_activation";s:4:"type";s:5:"plain";s:4:"name";s:36:"Registration Activation Notification";s:7:"subject";s:54:"Action Required to Activate Membership for %site_name%";s:13:"message_plain";s:712:"Dear %fullname%,
+
+
+
+Thank you for registering at the %site_name%. Before we can activate your account one last step must be taken to complete your registration.
+
+Please note:
+
+you must complete this last step to become a registered member. You will only need to visit this URL once to activate your account.
+
+To complete your
+
+registration, please visit this URL:
+
+%activation_url_code%
+
+**** Does The Above URL Not Work? ****
+
+If the above URL does not work, please use your Web
+
+browser to go to:
+
+%activation_url%
+
+Your Username is: %username%
+Your Activation ID is: %activation_code%
+
+If you are still having problems signing up
+
+please contact a member of our support staff.
+
+All the best,
+%site_name% Team.";s:12:"message_html";s:828:"<p>Dear %fullname%,<br /><br />Thank you for registering at the %site_name%.
+
+Before we can activate your account one last step must be taken to complete your registration.<br /><br />Please note: you must complete this last step to become
+
+a registered member. You will only need to visit this URL once to activate your account.<br /><br />To complete your registration, please visit this URL:<br
+
+/><br />%activation_url_code%<br /><br />**** Does The Above URL Not Work? ****<br /><br />If the above URL does not work, please use your Web browser to go
+
+to:<br /><br />%activation_url%<br /><br />Your Username is: %username%<br />Your Activation ID is: %activation_code%<br /><br />If you are still having problems
+
+signing up please contact a member of our support staff.<br /><br />All the best,<br />%site_name% Team.</p>";}s:21:"registration_complete";a:7:{s:3:"oid";s:1:"2";s:2:"id";s:21:"registration_complete";s:4:"type";s:5:"plain";s:4:"name";s:36:"Registration Completion Notification";s:7:"subject";s:23:"Welcome to %site_name%!";s:13:"message_plain";s:181:"Dear %fullname%,
+
+Thanks for registering at
+
+%site_name%! We are glad you have chosen to be a part of our community and we hope you enjoy your stay.
+
+All the best,
+%site_name% Team.";s:12:"message_html";s:231:"<p>Dear %fullname
+
+%,</p>
+<p>Thanks for registering at %site_name%!</p>
+<p>We are glad you have chosen to be a part of our community and we hope you enjoy your stay.</p>
+
+
+
+<p>&nbsp;</p>
+<p>All the best, <br />%site_name% Team.</p>";}s:15:"forgot_password";a:7:{s:3:"oid";s:1:"3";s:2:"id";s:15:"forgot_password";s:4:"type";s:5:"plain";s:4:"name";s:27:"Password Reset Notification";s:7:"subject";s:37:"New Password Required for %site_name%";s:13:"message_plain";s:138:"Dear %fullname%
+
+Your request for a new password was
+
+sucessfully processed.
+
+New password: %newpassword%
+
+All the best,
+%site_name% Team.";s:12:"message_html";s:180:"<p>Dear %fullname%<br /><br />Your request for a new password was
+
+sucessfully processed.<br /><br />New password: %newpassword%<br /><br />All the best,<br />%site_name% Team.</p>";}s:20:"newmail_verification";a:7:{s:3:"oid";s:1:"4";s:2:"id";s:20:"newmail_verification";s:4:"type";s:5:"plain";s:4:"name";s:22:"New Email Verification";s:7:"subject";s:47:"Action Required to Change Email for %site_name%";s:13:"message_plain";s:296:"Dear %fullname%
+
+You have been update your
+
+%site_name% account, but before we can change your email one last step must be taken to complete this operation.
+
+Go to your personal settings and enter the
+
+next activation id.
+
+Your Activation ID is: %activation_code%
+
+All the best,
+%site_name% Team.";s:12:"message_html";s:348:"<p>Dear %fullname%<br /><br />You have been update your
+
+%site_name% account, but before we can change your email one last step must be taken to complete this operation.<br /><br />Go to your personal settings and
+
+enter the next activation id.<br /><br />Your Activation ID is: %activation_code%<br /><br />All the best,<br />%site_name% Team.</p>";}s:23:"support_ticket_creation";a:7:{s:3:"oid";s:1:"5";s:2:"id";s:23:"support_ticket_creation";s:4:"type";s:5:"plain";s:4:"name";s:23:"Support Ticket Creation";s:7:"subject";s:29:"[%ticket_id%] Support Request";s:13:"message_plain";s:264:"*************************************
+%site_name% Support
+
+
+*************************************
+
+You have submitted a support ticket to %site_name%
+
+Your ticket number is %ticket_id%
+
+You will receive a response
+
+within 48 hours.
+
+Best regards,
+%site_name% Team.";s:12:"message_html";s:325:"<p>*************************************<br />%site_name% Support<br
+
+/>*************************************<br /><br />You have submitted a support ticket to %site_name%<br /><br />Your ticket number is %ticket_id%<br /><br />You
+
+will receive a response within 48 hours.<br /><br />Best regards,<br />%site_name% Team.</p>";}s:21:"support_ticket_answer";a:7:{s:3:"oid";s:1:"6";s:2:"id";s:21:"support_ticket_answer";s:4:"type";s:5:"plain";s:4:"name";s:21:"Support Ticket Answer";s:7:"subject";s:26:"[%ticket_id%] Ticket Reply";s:13:"message_plain";s:238:"*************************************
+%site_name% Support
+
+
+*************************************
+
+Your support ticket submitted to %site_name% was replied by our staff.
+
+Your ticket number is %ticket_id%
+
+Best
+
+regards,
+%site_name% team.";s:12:"message_html";s:289:"<p>*************************************<br />%site_name% Support<br />*************************************<br /><br />Your
+
+support ticket submitted to %site_name% was replied by our staff.<br /><br />Your ticket number is %ticket_id%<br /><br />Best regards,<br />%site_name%
+
+team.</p>";}}s:10:"write_time";s:10:"1405886068";s:10:"expired_in";i:604800;s:12:"expired_time";i:1406490868;}

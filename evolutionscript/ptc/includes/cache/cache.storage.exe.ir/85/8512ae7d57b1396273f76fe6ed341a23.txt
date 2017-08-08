@@ -1,0 +1,1 @@
+a:4:{s:5:"value";a:2:{s:7:"default";i:1;s:4:"data";a:1:{i:1;a:5:{s:2:"id";i:1;s:4:"name";s:12:"English (US)";s:7:"version";s:3:"5.0";s:8:"filename";s:11:"english.php";s:12:"default_lang";i:1;}}}s:10:"write_time";s:10:"1404744329";s:10:"expired_in";i:604800;s:12:"expired_time";i:1405349129;}

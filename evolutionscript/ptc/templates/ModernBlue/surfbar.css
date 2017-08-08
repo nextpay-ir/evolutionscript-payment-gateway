@@ -1,0 +1,102 @@
+body{
+	margin:0px; 
+	padding:0px; 
+	width:100%; 
+	height:100%; 
+	overflow:hidden;
+	font-size:12px;
+}
+a{
+	color:#FFFF00;
+}
+.surfbar{
+	background:#4c4c4c;
+	color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0px;
+	font-weight:bold;
+	height:68px;
+}
+.logo{
+background:url(css/images/surfer/logo.png) no-repeat;
+width:151px;
+height:25px;
+float:left;
+margin-left:10px;
+margin-top:25px;
+}
+#surfbar{ 
+	float:left;
+	padding:20px 0px 0px 20px;
+}
+.progressbar{
+width:123px;
+height:12px;
+background:url(css/images/surfer/progressbar.png) no-repeat;
+margin-top:10px;
+}
+.progressbar div{
+height:15px;
+background:url(css/images/surfer/progressbg_green.gif) no-repeat;;
+width:3px;
+max-width:120px;
+margin-left:1px;
+}
+#vnumbers{
+float:left;
+margin-left:20px;
+padding-top:5px;
+}
+.surfer_frame{
+	border:0px; 
+	height:100%; 
+	width:100%;
+}
+.banner{
+float:right;
+margin-right:20px;
+margin-top:2px;
+}
+
+
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+
+.errorbox{
+background:url(css/images/surfer/cancel.png) no-repeat;
+padding-left:55px;
+height:38px;
+padding-top:10px;
+display:none;
+}
+.successbox{
+background:url(css/images/surfer/tick.png) no-repeat;
+padding-left:55px;
+height:38px;
+padding-top:10px;
+display:none;
+}
+
+.adwait{
+padding-top:10px;
+padding-left:5px;
+}
+
+

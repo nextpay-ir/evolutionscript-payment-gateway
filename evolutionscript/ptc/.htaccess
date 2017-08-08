@@ -1,0 +1,6 @@
+RewriteRule ^(?:languages|Sources|upload|templates_c)\b.* index.php/$0 [L]
+
+<FilesMatch "\.tpl$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>

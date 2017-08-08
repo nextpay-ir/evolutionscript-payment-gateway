@@ -1,0 +1,13 @@
+[12-Jul-2014 02:42:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arshadir/public_html/ptc/modules/gateways/payeer_status.php:60) in /home/arshadir/public_html/ptc/modules/gateways/payeer_status.php on line 62
+[12-Jul-2014 06:29:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 43
+[21-Jul-2014 00:35:02 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:35:23 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:35:57 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:36:06 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:36:13 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:36:21 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:36:31 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:39:00 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 00:39:12 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/arshadir/public_html/ptc/modules/gateways/payeer.php on line 50
+[21-Jul-2014 21:24:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/arshadir/public_html/ptc/modules/gateways/payeer_status.php on line 80
+[22-Jul-2014 01:37:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/arshadir/public_html/ptc/modules/gateways/zaringate.php on line 86
