@@ -2,9 +2,9 @@
 
 // Configuration Section
 $server = 'localhost'; //probably localhost but change if required
-$username = 'arshadir_ptc';
-$password = 'rafy5547m3553hs70';
-$database = 'arshadir_ptc';
+$username = '';
+$password = '';
+$database = '';
 
 
 
